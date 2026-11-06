@@ -1,0 +1,23 @@
+.profile {
+  width: 250px;
+  padding: 20px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+
+.profile img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.profile h2 {
+  color: darkblue;
+}
+
+.profile p {
+  font-size: 16px;
+  color: black;
+}

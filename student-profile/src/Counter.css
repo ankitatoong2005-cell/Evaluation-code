@@ -1,0 +1,26 @@
+.counter {
+  text-align: center;
+  margin: 50px auto;
+  padding: 30px;
+  width: 300px;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+
+.counter h1 {
+  color: darkblue;
+}
+
+.counter h2 {
+  font-size: 30px;
+}
+
+.counter button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}
